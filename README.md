@@ -1,4 +1,4 @@
-# Vibrancy (iOS 10)
-Make the lockscreen clock vibrant. This means that your wall paper shines through the clock font slightly, giving it a vibrant look. Below are some screenshots.
+# Vibrancy (iOS 11)
+Forked from [here](https://github.com/NeinZedd9/Vibrancy-iOS-10-) to update to iOS 11
 
-![Screenshots](http://media.idownloadblog.com/wp-content/uploads/2017/05/Vibrancy-iOS-10-Wallpapers.jpg)
+![Screenshots](https://cdn.discordapp.com/attachments/437307457149337610/490343276197576707/image0.jpg)
